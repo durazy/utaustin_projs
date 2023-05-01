@@ -4,19 +4,11 @@ import java.io.IOException;
 
 /**
  * CS312 Assignment 3.
- *
- * Replace <NAME> with your name, stating on your honor you completed this
- * assignment on your own and that you didn't share your code with other
- * students.
  * 
  * On my honor, Daniel Duru, this programming assignment is my own work and I have
  * not shared my solution with any other student in the class.
  *
  * A program to print out various scintillation grids and a student designed drawing. 
- *
- *  email address: dcd2338@utexas.edu
- *  UTEID: dcd2338
- *  Number of slip days I am using on this assignment: 2
  */
 
 public class ScintillationGrid {
