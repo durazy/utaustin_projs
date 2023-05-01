@@ -1,1 +1,1 @@
-# Projects/Assignments provided as UT Austin coursework
+# Projects provided as UT Austin coursework
