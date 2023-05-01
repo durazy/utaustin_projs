@@ -4,12 +4,6 @@
  *
  *  A program to print out the UT Tower in ASCII art form.
  *
- *  Name: Daniel Duru
- *  email address: dcd2338@utexas.edu
- *  UTEID: dcd2338
- *  Section 5 digit ID: 50797
- *  Grader name: Nikhil
- *  Number of slip days used on this assignment: 1
  */
 
 public class Tower {
