@@ -4,12 +4,6 @@
  *
  * A program to print out the lyrics to the
  * children's song, "There was an old woman".
- *
- *  Name: Daniel Duru
- *  email address: dcd2338@utexas.edu
- *  UTEID: dcd2338
- *  Section 5 digit ID: 50797
- *  Grader name: Nikhil
  */
 
 public class Song {
