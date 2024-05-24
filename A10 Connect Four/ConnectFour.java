@@ -6,11 +6,6 @@ import java.util.Scanner;
  * On my honor, Daniel Duru, this programming assignment is my own work and I have
  * not shared my solution with any other student in the class.
  *
- *  email address: rigsda2@gmail.com
- *  UTEID: dcd2338
- *  TA name: Nikhil
- *  Number of slip days used on this assignment: 0
- *
  * Program that allows two people to play Connect Four.
  */
 
